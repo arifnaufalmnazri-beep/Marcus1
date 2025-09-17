@@ -3,7 +3,7 @@ I used the stepper motor and wheels design, along with a new lego car frame to b
 
 ## Description
 Hey again. This time, I used the stepper motor and lego design from the previous test and integrated them into a lego car design. It's a scrappy build made of axles, beams, wheels and gears. 
-But I think it's a step forward. It's fun to watch it move forward and backwards like it does. I named it, "Marcus.1," because I wanted to name something with "Mark 1" in its name like Iron Man,
+But I think it's a step forward. It's fun to watch it move forward and backwards like it does. I named it, "Marcus1," because I wanted to name something with "Mark 1" in its name like Iron Man,
 so Marcus just stuck. 
 
 ## Demo
